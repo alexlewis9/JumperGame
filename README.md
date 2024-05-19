@@ -1,2 +1,1 @@
-# JumperGame
- Jumper Game
+Jumper Game
